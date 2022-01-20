@@ -21,10 +21,6 @@ public class BallBounce : MonoBehaviour
         bounceValues["Spike"] = 0f;
         bounceValues["TNT"] = 2f;
         additiveValues["TNT"] = 15f;
-        if(false){
-            bounceValues["BS"] = 2f;
-        }
-
     }
 
     // Update is called once per frame
