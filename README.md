@@ -2,4 +2,4 @@
 
 1 day game
 
-test auto build
+test auto build 2
